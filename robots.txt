@@ -1,0 +1,18 @@
+# GizmoHub — robots.txt
+User-agent: *
+Allow: /
+Disallow: /#/cart
+Disallow: /#/checkout
+Disallow: /#/account
+Disallow: /#/auth
+Disallow: /#/order
+Disallow: /#/compare
+Disallow: /#/wishlist
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+Sitemap: https://gizmohub.ir/sitemap.xml

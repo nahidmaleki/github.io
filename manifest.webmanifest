@@ -1,0 +1,19 @@
+{
+  "name": "گیزموهاب | فروشگاه تخصصی گجت و محصولات دیجیتال",
+  "short_name": "گیزموهاب",
+  "description": "خرید آنلاین جدیدترین گجت‌ها و محصولات دیجیتال با ضمانت اصالت کالا",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#071225",
+  "theme_color": "#071225",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
